@@ -1,0 +1,91 @@
+#WannaCry
+!Ransomware with worm-like features. First seen in a global attack, affecting more than 150 countries.
+@Initial Access:Exploit Public-Facing Application,Discovery:Remote System Discovery,Lateral Movement:Exploitation of Remote Services,Impact:Loss of Availability,Impact:Loss of Productivity and Revenue
+&WanaCry,WanaCrypt,WanaCrypt0r,WCry
+%Lazarus Group
+^IT
+$YES
+#Kido
+!Worm targeting vulnerability in Windows OS software and performs dictionary attacks on administrator passwords
+@Initial Access:Replication Through Removable Media,Initial Access:Exploitation of Remote Services,Impact:Loss of Availability,Impact:Loss of Productivity and Revenue
+&Conficker,Downadup
+^IT
+$NO
+#BlackEnergy
+!Toolkit that creates botnets for conducting DDoS attacks. Known to be have been used against the Ukrainian power grid.
+@Initial Access:Spearphishing Attachment,Persistence:Valid Accounts,Evasion:Indicator Removal on Host,Lateral Movement:Remote Services,Command and Control:Standard Application Layer Protocol
+%Sandworm Team
+&BlackEnergy 3
+^IT
+$NO
+#Triton
+!An attack framework on SIS controllers associated with a malware incident on a petrochemical facility in Saudi Arabia.
+@Execution:Change Operating Mode,Execution:Execution through API,Execution:Scripting,Persistence:Modify Program,Persistence:System Firmware,Evasion:Change Operating Mode,Evasion:Exploitation for Evasion,Evasion:Indicator Removal on Host,Evasion:Masquerading,Discovery:Remote System Discovery,Discovery:Remote System Information Discovery,Lateral Movement:Program Download,Collection:Detect Operating Mode,Command and Control:Commonly Used Port,Inhibit Response Function:System Firmware,Impair Process Control:Unauthorized Command Message,Impact:Loss of Safety
+%XENOTIME
+^SIS
+&TRISIS,HATMAN
+$NO
+#Flame
+!An attacker-instructed worm capable to conduct industrial espionage.
+@Initial Access:Exploitation of Remote Services,Initial Access:Replication Through Removable Media,Evasion:Indicator Removal on Host,Collection:Data from Information Repositories,Impact:Theft of Operational Information
+%N/A
+^IT
+&Flamer,sKyWIper
+$NO
+#CobianRAT
+!A backdoor remote access tool 
+@Execution:Command-Line Interface,Execution:Graphical User Interface,Evasion:Masquerading,Collection:Monitor Process State,Collection:Screen Capture,Collection:Program Upload,Command and Control:Standard Application Layer Protocol,Inhibit Response Function:Data Destruction,Impact:Loss of Control,Impact:Theft of Operational Information
+^IT
+$YES
+#APT34
+!Suspected Iranian threat group targeting various sectors including energy, chemical and telecommunications.
+@Initial Access:Remote Services,Initial Access:Spearphishing Attachment,Execution:Scripting,Execution:User Execution,Persistance:Valid Accounts,Evasion:Indicator Removal on Host,Evasion:Masquerading,Discovery:Network Sniffing,Lateral Movement:Remote Services,Lateral Movement:Valid Accounts,Collection:Automated Collection,Collection:Screen Capture,Command and Control:Commonly Used Port,Command and Control:Standard Application Layer Protocol
+%COBALT GYPSY,IRN2,HELIX KITTEN,OilRig
+&N/A
+^Various
+$NO
+#Duqu
+!Malware platform known for its modularity. Related to the stuxnet worm.
+@Evasion:Masquerading,Discovery:Network Sniffing,Lateral Movement:Remote Services,Lateral Movement:Valid Accounts,Collection:Data from Information Repositories,Command and Control:Standard Application Layer Protocol,Command and Control:Connection Proxy,Impact:Theft of Operational Information
+%Unit 8200
+&Duqu2.0
+$YES
+#SparrowDoor
+!Malware known to collect and modify files and directories of infected victims.
+@Initial Access:Exploit Public-Facing Application,Privilege Escalation:Exploitation for Privilege Escalation,Lateral Movement:Exploitation of Remote Services,Command and Control:Standard Application Layer Protocol,Inhibit Response Function:Data Destruction,Impact:Theft of Operational Information
+%FamousSparrow
+&SparrowDoor Backdoor
+^IT
+$YES
+#Flame
+!Automatic information collecting toolkit known to be used by groups targeting Middle Eastern countries.
+@Initial Access:Replication Through Removable Media,Initial Access:Exploitation of Remote Services,Lateral Movement:Exploitation of Remote Services,Collection:Automated Collection,Collection:Screen Capture,Collection:Data from Information Repositories
+Impact:Theft of Operational Information
+%N/A
+&Flamer,sKyWIper
+$YES
+#Uroburos
+!A rootkit associated with the Russian-based group, Turla.
+@Evasion:Masquerading,Evasion:Rootkit
+%Turla
+&Urubus,Torola,Turla
+$NO
+#Regin
+!Sophisticated malware and hacking toolkit associated with the United States' NSA.
+@Persistence:Module Firmware,Evasion:Masquerading,Discovery:Network Sniffing,Command and Control:Standard Application Layer Protocol,Impact:Theft of Operational Information
+%NSA
+&N/A
+$NO
+#Ixeshe
+!Malware family known to be used against targets in East Asia
+@Execution:Command-Line Interface,Persistence:System Firmware,Evasion:Indicator Removal on Host,Evasion:Masquerading,Evasion:Spoof Reporting Message,Discovery:Remote System Information Discovery,Collection:Data from Information Repositories,Command and Control:Standard Application Layer Protocol
+%APT12
+&N/A
+^IT
+$YES
+#Potao Express
+!Espionage malware commonly found in victims in Ukraine
+@Initial Access:Replication Through Removable Media,Initial Access:Spearphishing Attachment,Evasion:Masquerading,Impact:Theft of Operational Information
+%Sandworm Team
+^IT
+$YES

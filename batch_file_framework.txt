@@ -1,0 +1,56 @@
+@ECHO OFF
+TITLE APT Framework Deployer
+ECHO #####################################################
+ECHO ~~~~~~~~~~~~~~~~~~~~ DISCLAIMER ~~~~~~~~~~~~~~~~~~~~~
+ECHO THIS BATCH SCRIPT WILL RUN MALWARE ON THIS PC
+ECHO EXIT IMMEDIATELY IF THIS IS NOT DONE IN A SANDBOX
+ECHO YOU HAVE BEEN WARNED
+ECHO #####################################################
+pause
+ECHO Continuining malware execution...
+ECHO ================================
+ECHO Initialising Potao Express
+ECHO ================================
+cd C:\Users\User\Desktop\APT Framework\Potao Express\Potao_FakeTrueCryptSetup
+ECHO Setting up a fake TrueCrypt program...
+"Potao_FakeTrueCryptSetup.exe"
+ECHO Please follow the installation prompt...
+pause
+ECHO ================================
+ECHO Running fake TrueCrypt...
+cd C:\Users\User\Desktop\APT Framework\Potao Express\Potao_FakeTrueCryptextracted exe
+"Potao_FakeTrueCryptextracted.exe"
+ECHO 
+ECHO Malicious TrueCrypt should now be running...
+ECHO
+pause
+ECHO ================================
+ECHO Initialising CobianRAT
+ECHO ================================
+cd C:\Users\User\Desktop\APT Framework\CobianRAT v1.0.40.7x
+ECHO Running CobianRAT Command and Control GUI
+"CobianRAT v1.0.40.7x.exe"
+pause
+ECHO Please select the preset port...
+ECHO Please use builder to create a malicious payload...
+pause
+ECHO Execute malicious payload in CobianRAT folder for the victim
+ECHO You should now have C and C over the victim...
+pause
+ECHO #####################################################
+ECHO ~~~~~~~~~~~~~~~~~~~~ DISCLAIMER ~~~~~~~~~~~~~~~~~~~~~
+ECHO WANNACRY WILL ENCRYPT ALL VALUABLE FILES ON THIS VM
+ECHO EXIT IMMEDIATELY IF THIS IS NOT DONE ON A SAVED STATE
+ECHO THIS STEP SHOULD ONLY BE CONTINUED ONCE YOU ARE
+ECHO SATISFIED WITH THE PREVIOUS MODULES
+ECHO #####################################################
+pause
+ECHO ================================
+ECHO Initialising Wannacry
+ECHO ================================
+cd C:\Users\User\Desktop\APT Framework\WannaCry
+ECHO Your precious files will be encrypted...
+ECHO Executing WannaCry...
+ECHO "WannaCry.exe"
+ECHO Script has finished executing malware...
+pause

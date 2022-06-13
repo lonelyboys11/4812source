@@ -1,0 +1,91 @@
+ALLANITE
+Dragonfly 2.0
+Dragonfly
+OilRig
+XENOTIME
+Bad Rabbit
+Badrabbit
+Sandworm Team
+WannaCry
+NotPetya
+REvil
+Conficker
+Downadup
+Kido
+APT33
+APT 33
+HEXANE
+Lazarus
+Lazarus Group
+Oldrea
+Backdoor.Oldrea
+BlackEnergy
+Black Energy
+Industroyer
+Triton
+TriStation
+PLC-Blaster
+KillDisk
+EKANS
+Flame
+VPNFilter
+LockerGoga
+Ajax Security Team
+CobianRAT
+CobianRAT v1.0.40.7
+CobianRAT v1.1
+Poison Frog
+APT 34
+APT34
+TRISIS
+TRITON
+HatMan
+Duqu2
+Duqu
+Stuxnet
+Winnti Group
+Winnti
+APT17
+APT 17
+Ke3chang
+Axiom
+Blackfly
+PipeMon
+Muddy Water
+MuddyWater
+Earth Vetala
+EarthVetala
+WannaCry
+WanaCry
+WanaCrypt
+WanaCrypt0r
+WCry
+Poison Frog
+poisonfrog
+Static Kitten
+StaticKitten
+Mercury
+Seedworm
+TEMP.Zagros
+Dark Hydrus
+DarkHydrus
+Cobalt Strike
+Ice Frog
+Icefrog
+Energetic Bear
+APT34
+Glimpse
+Poison Frog
+poisonfrog
+doublefantasy
+fanny
+grayfish
+triplefantasy
+Flame
+Regin
+Uroburos
+Urubus
+Torola
+Ixeshe
+Potao Express
+PotaoExpress
